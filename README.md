@@ -1,6 +1,6 @@
 ### Hi there, I'm Abrar Wiryawan 👋
 
-- 🔭 I’m a college student of State University of Jakarta
+- 🔭 I’m a college student at State University of Jakarta
 - 🌱 I’m currently learning mostly about Kotlin, Android Development, and Jetpack Compose
 - 🥅 2021 goals: contribute to open source projects
 - 😄 Pronouns: He/Him/His
