@@ -26,8 +26,9 @@
 <img align="left" alt="Flutter" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
-</br></br>
+</br>
 
+### Stats
 <a href="https://github.com/wiryadev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiryadev&show_icons=true&theme=dark&line_height=27" alt="wiryadev's github stats"/>
 </a>
@@ -35,6 +36,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiryadev&theme=dark&langs_count=3" />
 </a>
 
+### Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=wiryadev&theme=darkhub)
 
 <!--
 **wiryadev/wiryadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
