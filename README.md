@@ -1,4 +1,4 @@
-### Hi there, I'm Abrar Wiryawan 👋
+## Hi there, I'm Abrar Wiryawan 👋
 
 - 🔭 I’m a college student at State University of Jakarta
 - 🌱 I’m currently learning mostly about Kotlin, Android Development, and Jetpack Compose
@@ -7,17 +7,10 @@
 - ⚡ Fun fact: I love cat 🐱
 
 ### Connect with me:
-<a href="https://twitter.com/abrarwiryawan">
-  <img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/abrarwiryawan/">
-  <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abrar-w-94801a13b/">
-  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-</br>
+[![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:abrarwiryawan@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abrar-wiryawan/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/abrarwiryawan)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/abrarwiryawan/)
 
 ### Languages and Tools
 <img align="left" alt="Android" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -30,7 +23,7 @@
 
 ### Stats
 <a href="https://github.com/wiryadev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiryadev&show_icons=true&theme=dark&line_height=27" alt="wiryadev's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiryadev&show_icons=true&theme=dark&line_height=27&count_private=true&include_all_commits=true" alt="wiryadev's github stats"/>
 </a>
 <a href="https://github.com/wiryadev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiryadev&theme=dark&langs_count=3" />
