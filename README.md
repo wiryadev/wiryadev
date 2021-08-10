@@ -14,9 +14,9 @@
 
 ### Languages and Tools
 ![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=android-studio)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=orange)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=android-studio&logoColor=4285F4)
 
 ### Stats
 <a href="https://github.com/wiryadev">
