@@ -18,8 +18,6 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=android-studio)
 
-</br>
-
 ### Stats
 <a href="https://github.com/wiryadev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiryadev&show_icons=true&theme=dark&line_height=27&count_private=true&include_all_commits=true" alt="wiryadev's github stats"/>
